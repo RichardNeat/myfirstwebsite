@@ -1,0 +1,66 @@
+* {
+    padding: 50;
+    margin: 60;
+}
+
+#toptext{
+    text-align: center;
+}
+
+#toptext2{
+    text-align: center;
+}
+
+#skiplink{
+    text-align: center;
+}
+
+
+body{
+    background-color:darkslategrey;
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: yellow;
+    text-indent: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    line-height: 5;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10rem;
+    border: 5px solid blue;
+    border-radius: 25px 50px 5px 50px;
+}
+
+p{
+    white-space: nowrap;
+}
+
+footer{
+    text-align: center;
+    color: silver;
+}
+    
+
+#tonysoprano{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50rem;
+    border:3px solid red;
+    border-radius: 50%;
+}
+
+/* #headshot {
+    border: 5px white;
+    border-radius: 10px 50px 1px 11px red;
+} */
